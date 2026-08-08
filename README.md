@@ -46,3 +46,7 @@ The `employees` table structure:
 | `name` | `VARCHAR(30)` | `NOT NULL` |
 | `position` | `VARCHAR(30)` | `NOT NULL` |
 | `salary` | `NUMERIC(10,2)` | — |
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
